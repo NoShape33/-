@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pth
+outputs/*.pth
+data/
+.claude/
+class_document/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+*.so
+.DS_Store
+Thumbs.db
